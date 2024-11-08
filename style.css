@@ -80,7 +80,7 @@ button:hover {
 
 /* Ocultar el GIF por defecto, sin modificar el tamaño del contenedor */
 #gif-img {
-    max-width: 100px; /* Ajusta según tus necesidades */
-    max-height: 100px;
+    max-width: 80%;
+    max-height: 80%;
     display: none;
 }
